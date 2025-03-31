@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Food.MainPage">
+    <StackLayout Padding="10">
+        <Label Text="Список товаров" FontSize="24" FontAttributes="Bold"
+               HorizontalOptions="Center" Margin="10"/>
+
+        <ListView x:Name="ProductsListView" ItemsSource="{Binding Products}" HasUnevenRows="True">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal" Padding="5" Spacing="10">
+                            <Label Text="{Binding Name}" FontSize="18" VerticalOptions="Center" WidthRequest="150"/>
+                            <Label Text="{Binding Price, StringFormat='Цена: {0:C}'}"
+                                   FontSize="16" TextColor="#6f2dbd" VerticalOptions="Center"/>
+                            <Button Text="Добавить" Clicked="OnAddToCartClicked" BackgroundColor="Blue" TextColor="White"/>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Margin="10">
+            <Button Text="Корзина" Clicked="OnCartClicked" BackgroundColor="Gray" TextColor="White"/>
+            <Button Text="Заказы" Clicked="OnOrdersClicked" BackgroundColor="DarkBlue" TextColor="White" Margin="10,0,0,0"/>
+        </StackLayout>
+
+    </StackLayout>
+
+</ContentPage>
