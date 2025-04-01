@@ -1,0 +1,51 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": false,
+        "noEmitOnError": true,
+        "removeComments": false,
+        "sourceMap": true,
+        "target": "es5"
+    },
+    "exclude": [
+        "node_modules",
+        "wwwroot"
+    ],
+    "products": [
+        {
+            "name": "Салат Цезарь",
+            "price": 350.0
+        },
+        {
+            "name": "Паста Карбонара",
+            "price": 400.0
+        },
+        {
+            "name": "Креветки",
+            "price": 480.0
+        },
+        {
+            "name": "Греческий",
+            "price": 250.0
+        },
+        {
+            "name": "Печеное Яблоко",
+            "price": 350.0
+        },
+        {
+            "name": "Печеная Груша",
+            "price": 480.0
+        },
+        {
+            "name": "Салат Изысканный",
+            "price": 480.0
+        },
+        {
+            "name": "Салат с бастурмой",
+            "price": 520.0
+        },
+        {
+            "name": "Салат с ростбифом",
+            "price": 480.0
+        }
+    ]
+}

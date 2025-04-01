@@ -40,6 +40,9 @@
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\Resources\Raw\products.json">
+      <PackagePath>products.json</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
     </AppxPackagedFile>

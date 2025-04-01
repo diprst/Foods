@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\MAUI\\foods\\Food\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C835573E-DF81-4868-85E4-677EB14CAF0F}|Food\\Food.csproj|c:\\maui\\foods\\food\\food\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C835573E-DF81-4868-85E4-677EB14CAF0F}|Food\\Food.csproj|solutionrelative:food\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C835573E-DF81-4868-85E4-677EB14CAF0F}|Food\\Food.csproj|c:\\maui\\foods\\food\\food\\kabinet.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C835573E-DF81-4868-85E4-677EB14CAF0F}|Food\\Food.csproj|solutionrelative:food\\kabinet.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{C835573E-DF81-4868-85E4-677EB14CAF0F}|Food\\Food.csproj|c:\\maui\\foods\\food\\food\\korzina.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C835573E-DF81-4868-85E4-677EB14CAF0F}|Food\\Food.csproj|solutionrelative:food\\korzina.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C835573E-DF81-4868-85E4-677EB14CAF0F}|Food\\Food.csproj|c:\\maui\\foods\\food\\food\\korzina.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C835573E-DF81-4868-85E4-677EB14CAF0F}|Food\\Food.csproj|solutionrelative:food\\korzina.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C835573E-DF81-4868-85E4-677EB14CAF0F}|Food\\Food.csproj|c:\\maui\\foods\\food\\food\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C835573E-DF81-4868-85E4-677EB14CAF0F}|Food\\Food.csproj|solutionrelative:food\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C835573E-DF81-4868-85E4-677EB14CAF0F}|Food\\Food.csproj|c:\\maui\\foods\\food\\food\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C835573E-DF81-4868-85E4-677EB14CAF0F}|Food\\Food.csproj|solutionrelative:food\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C835573E-DF81-4868-85E4-677EB14CAF0F}|Food\\Food.csproj|c:\\maui\\foods\\food\\food\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C835573E-DF81-4868-85E4-677EB14CAF0F}|Food\\Food.csproj|solutionrelative:food\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C835573E-DF81-4868-85E4-677EB14CAF0F}|Food\\Food.csproj|c:\\maui\\foods\\food\\food\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -26,43 +34,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Kabinet.xaml",
-              "DocumentMoniker": "C:\\MAUI\\foods\\Food\\Food\\Kabinet.xaml",
-              "RelativeDocumentMoniker": "Food\\Kabinet.xaml",
-              "ToolTip": "C:\\MAUI\\foods\\Food\\Food\\Kabinet.xaml",
-              "RelativeToolTip": "Food\\Kabinet.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-31T12:27:15.552Z",
+              "DocumentIndex": 0,
+              "Title": "Korzina.xaml.cs",
+              "DocumentMoniker": "C:\\MAUI\\foods\\Food\\Food\\Korzina.xaml.cs",
+              "RelativeDocumentMoniker": "Food\\Korzina.xaml.cs",
+              "ToolTip": "C:\\MAUI\\foods\\Food\\Food\\Korzina.xaml.cs*",
+              "RelativeToolTip": "Food\\Korzina.xaml.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T07:06:23.263Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Korzina.xaml",
               "DocumentMoniker": "C:\\MAUI\\foods\\Food\\Food\\Korzina.xaml",
               "RelativeDocumentMoniker": "Food\\Korzina.xaml",
-              "ToolTip": "C:\\MAUI\\foods\\Food\\Food\\Korzina.xaml",
-              "RelativeToolTip": "Food\\Korzina.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "ToolTip": "C:\\MAUI\\foods\\Food\\Food\\Korzina.xaml*",
+              "RelativeToolTip": "Food\\Korzina.xaml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-31T12:26:53.791Z",
+              "WhenOpened": "2025-04-01T06:49:56.992Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\MAUI\\foods\\Food\\Food\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Food\\MainPage.xaml",
+              "ToolTip": "C:\\MAUI\\foods\\Food\\Food\\MainPage.xaml",
+              "RelativeToolTip": "Food\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-31T11:30:25.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\MAUI\\foods\\Food\\Food\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "Food\\MainPage.xaml.cs",
-              "ToolTip": "C:\\MAUI\\foods\\Food\\Food\\MainPage.xaml.cs*",
-              "RelativeToolTip": "Food\\MainPage.xaml.cs*",
-              "ViewState": "AgIAACgAAAAAAAAAAAAcwE4AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\MAUI\\foods\\Food\\Food\\MainPage.xaml.cs",
+              "RelativeToolTip": "Food\\MainPage.xaml.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAADwv44AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T11:30:29.381Z",
               "EditorCaption": ""
@@ -70,14 +91,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\MAUI\\foods\\Food\\Food\\MainPage.xaml",
-              "RelativeDocumentMoniker": "Food\\MainPage.xaml",
-              "ToolTip": "C:\\MAUI\\foods\\Food\\Food\\MainPage.xaml*",
-              "RelativeToolTip": "Food\\MainPage.xaml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAyAAAAAAAAAA==",
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\MAUI\\foods\\Food\\Food\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Food\\AppShell.xaml.cs",
+              "ToolTip": "C:\\MAUI\\foods\\Food\\Food\\AppShell.xaml.cs",
+              "RelativeToolTip": "Food\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T06:51:24.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\MAUI\\foods\\Food\\Food\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Food\\AppShell.xaml",
+              "ToolTip": "C:\\MAUI\\foods\\Food\\Food\\AppShell.xaml",
+              "RelativeToolTip": "Food\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-31T11:30:25.567Z",
+              "WhenOpened": "2025-04-01T06:58:37.176Z",
               "EditorCaption": ""
             }
           ]

@@ -29,49 +29,53 @@
     <AppXManifest Include="C:\MAUI\foods\Food\Food\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-03-31T12:29:03.375</Modified>
+      <Modified>2025-04-01T07:17:38.068</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-03-31T12:29:03.187</Modified>
+      <Modified>2025-04-01T06:44:45.272</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Food.runtimeconfig.json">
       <PackagePath>Food.runtimeconfig.json</PackagePath>
-      <Modified>2025-03-31T12:23:59.894</Modified>
+      <Modified>2025-04-01T06:44:45.236</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Food.dll">
       <PackagePath>Food.dll</PackagePath>
-      <Modified>2025-03-31T12:29:02.125</Modified>
+      <Modified>2025-04-01T07:17:37.177</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Food.exe</PackagePath>
-      <Modified>2025-03-31T12:29:02.140</Modified>
+      <Modified>2025-04-01T07:17:37.208</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2025-03-31T11:30:03.816</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\Resources\Raw\products.json">
+      <PackagePath>products.json</PackagePath>
+      <Modified>2025-04-01T06:32:39.467</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2025-03-31T12:23:28.499</Modified>
+      <Modified>2025-04-01T06:44:43.284</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2025-03-31T12:23:28.499</Modified>
+      <Modified>2025-04-01T06:44:43.299</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2025-03-31T12:23:28.530</Modified>
+      <Modified>2025-04-01T06:44:43.315</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2025-03-31T12:23:28.562</Modified>
+      <Modified>2025-04-01T06:44:43.346</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2025-03-31T12:23:28.671</Modified>
+      <Modified>2025-04-01T06:44:43.471</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -83,211 +87,211 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.623</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.812</Modified>
+      <Modified>2025-04-01T06:44:44.617</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.812</Modified>
+      <Modified>2025-04-01T06:44:44.617</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.812</Modified>
+      <Modified>2025-04-01T06:44:44.616</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.812</Modified>
+      <Modified>2025-04-01T06:44:44.616</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.812</Modified>
+      <Modified>2025-04-01T06:44:44.616</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.620</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.620</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.620</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.620</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.620</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.621</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.621</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.620</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.621</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.621</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.623</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.623</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.623</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.622</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.622</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.622</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.622</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.621</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.621</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.621</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.618</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.618</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.618</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.618</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.618</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.619</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.619</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.619</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.619</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.618</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.620</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.619</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.619</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.619</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.619</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.618</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.617</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.617</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.617</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.617</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.616</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.616</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.616</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.615</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2025-03-31T12:23:29.827</Modified>
+      <Modified>2025-04-01T06:44:44.615</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\foods\Food\Food\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Food.deps.json">
       <PackagePath>Food.deps.json</PackagePath>
-      <Modified>2025-03-31T12:29:03.015</Modified>
+      <Modified>2025-04-01T06:44:45.174</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\admin\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.44\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

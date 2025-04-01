@@ -3,10 +3,33 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Food.Korzina"
              Title="Korzina">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
+    <VerticalStackLayout Padding="10">
+        <Grid ColumnDefinitions="2*, 1*, 1*, 1*" Padding="5">
+            <Label Text="Товар" FontAttributes="Bold"/>
+            <Label Text="Количество" FontAttributes="Bold"/>
+            <Label Text="Цена" FontAttributes="Bold"/>
+            <Label Text="Сумма" FontAttributes="Bold"/>
+        </Grid>
+
+        <CollectionView ItemsSource="{Binding CartItems}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid ColumnDefinitions="2*, 1*, 1*, 1*, 1*" Padding="5">
+                        <Label Text="{Binding Name}"/>
+                        <HorizontalStackLayout>
+                            <Button Text="-" Clicked="DecreaseQuantity"/>
+                            <Label Text="{Binding Quantity}"/>
+                            <Button Text="+" Clicked="IncreaseQuantity"/>
+                        </HorizontalStackLayout>
+                        <Label Text="{Binding Price, StringFormat='{0:C}'}"/>
+                        <Label Text="{Binding Total, StringFormat='{0:C}'}"/>
+                        <Button Text="Удалить" Clicked="RemoveItemClicked" HorizontalOptions="End"/>
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+        <Button Text="Сделать заказ" Clicked="CheckoutClicked"
+        IsEnabled="{Binding CartItems.Count, Converter={StaticResource CountToBoolConverter}}"/>
     </VerticalStackLayout>
 </ContentPage>

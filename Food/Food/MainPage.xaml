@@ -2,30 +2,21 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Food.MainPage">
-    <StackLayout Padding="10">
-        <Label Text="Список товаров" FontSize="24" FontAttributes="Bold"
-               HorizontalOptions="Center" Margin="10"/>
-
-        <ListView x:Name="ProductsListView" ItemsSource="{Binding Products}" HasUnevenRows="True">
-            <ListView.ItemTemplate>
-                <DataTemplate>
-                    <ViewCell>
-                        <StackLayout Orientation="Horizontal" Padding="5" Spacing="10">
-                            <Label Text="{Binding Name}" FontSize="18" VerticalOptions="Center" WidthRequest="150"/>
-                            <Label Text="{Binding Price, StringFormat='Цена: {0:C}'}"
-                                   FontSize="16" TextColor="#6f2dbd" VerticalOptions="Center"/>
-                            <Button Text="Добавить" Clicked="OnAddToCartClicked" BackgroundColor="Blue" TextColor="White"/>
-                        </StackLayout>
-                    </ViewCell>
-                </DataTemplate>
-            </ListView.ItemTemplate>
-        </ListView>
-
-        <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Margin="10">
-            <Button Text="Корзина" Clicked="OnCartClicked" BackgroundColor="Gray" TextColor="White"/>
-            <Button Text="Заказы" Clicked="OnOrdersClicked" BackgroundColor="DarkBlue" TextColor="White" Margin="10,0,0,0"/>
+    <ScrollView>
+        <StackLayout BackgroundColor="#D6C3FC" Padding="10">
+            <Label Text="Главная" FontSize="24" TextColor="#5B0EB3" HorizontalOptions="Center" />
+            <Frame BackgroundColor="#BFA2DB" Padding="5" CornerRadius="10">
+                <StackLayout Orientation="Horizontal" Padding="10" Spacing="10">
+                    <Label Text="Название" FontSize="16" WidthRequest="150" TextColor="White" />
+                    <Label Text="Цена" FontSize="16" WidthRequest="80" TextColor="White" />
+                    <Label Text="Выбрать" FontSize="16" WidthRequest="70" TextColor="White" />
+                </StackLayout>
+            </Frame>
+            <StackLayout x:Name="ProductsStackLayout" Spacing="10" />
+            <Button Text="Перейти в корзину"
+                Clicked="GoToCartClicked"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"/>
         </StackLayout>
-
-    </StackLayout>
-
+    </ScrollView>
 </ContentPage>

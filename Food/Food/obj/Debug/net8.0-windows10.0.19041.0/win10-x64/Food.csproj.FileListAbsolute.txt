@@ -178,3 +178,4 @@ C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifier
 C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\MAUI\foods\Food\Food\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Food.sourcelink.json

@@ -300,3 +300,4 @@ C:\MAUI\foods\Food\Food\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\XamlC.stamp
 C:\MAUI\foods\Food\Food\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Food.csproj.Up2Date
 C:\MAUI\foods\Food\Food\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Food.genruntimeconfig.cache
 C:\MAUI\foods\Food\Food\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\Food.dll
+C:\MAUI\foods\Food\Food\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Food.sourcelink.json
